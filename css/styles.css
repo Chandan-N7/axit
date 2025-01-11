@@ -41,6 +41,8 @@ html{
     --op: op, serif; 
     --re:re, serif;
     --gray:#86878b;
+    scroll-behavior: smooth;
+}
 }
 
 body{
